@@ -3,19 +3,19 @@
 ### Mardi 17/09/2024 :
 
 
-* [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
-* [ ] Élaboration d’une stratégie pour l’anglais
-* [ ] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
-* [ ] Savoir comment aborder un problème
+* [x] Comprendre le métier de développeur, aperçu sur le mindset du dev
+* [x] Élaboration d’une stratégie pour l’anglais
+* [x] Savoir comment aborder la gestion de son temps
+* [x] Savoir comment poser des questions
+* [x] Savoir comment aborder un problème
 
 #### Environnement de travail
 
-* [ ] Configuration de son environnement de travail
+* [x] Configuration de son environnement de travail
   * [x] Mise à jour OS (Linux, Windows, Mac)
   * [x] Installation (Discord)
   * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+  * [x] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
 * [x] Découverte de Linux :
