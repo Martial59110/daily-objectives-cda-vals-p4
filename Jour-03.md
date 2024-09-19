@@ -38,16 +38,16 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [x] Lister, changer, créer, supprimer des branches
   - [x] Quelle est la différence entre `Git switch` et `Git checkout`
 * [x] Comprendre le merge dans Git
-  - [ ] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+  - [x] Comprendre le "fast forward"
+  - [x] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
 - [x] Configurer un tunnel SSH entre son local et son Github
-- [ ] Découvrir l'interface de Github :
+- [x] Découvrir l'interface de Github :
   - [x] Pull Requests
   - [x] Branches
-  - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [x] Issues
+  - [x] Settings projet
+  - [x] Settings profile
