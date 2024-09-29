@@ -2,7 +2,7 @@
 
 ### Vendredi 20/09/2024 :
 
-- [ ] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
+- [x] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
 
 ### Git
 
